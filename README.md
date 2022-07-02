@@ -1,1 +1,3 @@
-# Przetwarzanie_zbiorow_danych_pandas
+# Przetwarzanie zbiorow danych
+
+Pandas
